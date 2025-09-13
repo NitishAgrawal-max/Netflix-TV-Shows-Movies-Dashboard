@@ -26,5 +26,4 @@ The dashboard provides a dynamic interface for users to explore and understand t
 3.  Explore different sheets or views to gain specific insights.
 
 ### How to Access the Project
-* **Tableau Public Link:** [Insert your Tableau Public link here]
-* **GitHub Repository:** [Insert your GitHub link here]
+* **GitHub Repository:** https://github.com/NitishAgrawal-max?tab=repositories
